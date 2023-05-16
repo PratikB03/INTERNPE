@@ -1,0 +1,143 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #0A4D68;
+}
+
+.calci {
+    width: 300px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: 0.25px;
+    text-align: center;
+}
+
+#display {
+    border: none;
+    background: white;
+    border-radius: 10px;
+    width: 260px;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 300;
+    height: 50px;
+    padding-left: 5px;
+    margin:auto;
+    border: 1px solid black;
+    color: black;
+}
+
+.btnDesign {
+    cursor: pointer;
+    width: 60px;
+    height: 55px;
+    padding-top: -1;
+    border: none;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    background-color:#FFB84C;
+    border-radius: 10px;
+    margin: 1.5px;
+
+}
+
+.operatorDesign {
+    cursor: pointer;
+    width: 60px;
+    height: 55px;
+    padding-top: -1;
+    border: none;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    background-color: #fa103b;
+    border-radius: 10px;
+    margin: 1.5px;
+}
+
+.operatorDesignx {
+    cursor: pointer;
+    width: 60px;
+    height: 55px;
+    padding-top: -1;
+    border: none;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    background-color:#3CCF4E;
+    border-radius: 10px;
+    margin: 1.5px;
+}
+
+
+.operatorDesign:hover {
+    background-color: #03C988;
+}
+
+#zero {
+    width: 125px;
+    height: 55px;
+    padding-top: -1;
+    border: none;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    background-color: #03C988;
+    border-radius: 10px;
+    margin: 1.5px;
+}
+
+h1 {
+    color:#FFB84C;
+    text-align: center;
+    font-weight: bold;
+    margin-top:80px;
+    padding:30px 30px;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    position: relative;
+    left: 70px;
+    top: 490px;
+}
+
+h3 {
+    font-weight: bold;
+    color: white;
+    position: relative;
+    top: 460px;
+    left: 95px;
+}
+
+h4 {
+    color: white;
+    font-family: 'lato', sans-serif;
+    font-weight: 300;
+    position: relative;
+    top: 460px;
+    left: 85px;
+
+}
+
+.just{
+    border-radius:20px;
+    position: relative;
+    bottom: 30px;
+    width:20rem;
+    height:33rem;
+    background-color: white;
+    margin: auto;
+}
+
