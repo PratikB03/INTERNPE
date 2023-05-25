@@ -1,0 +1,149 @@
+body {
+    font-family: "Poppins";
+    text-align: center;
+    background-color: #0A4D68;
+    color: white;
+
+}
+
+h1 {
+    color: #EF5B0C;
+    font-size: 3.2rem;
+}
+
+h2 {
+    color: #FF6D60;
+    font-size: 2rem;
+
+}
+
+h3 {
+    color: #003865;
+    font-size: 2rem;
+}
+
+p {
+
+    font-size: 1.2rem;
+
+}
+
+h4 {
+    color: white;
+    font-size: 30px;
+}
+
+.wiki {
+    color: white;
+    text-decoration: underline;
+}
+
+ul {
+    text-align: left;
+    font-size: 1.2rem;
+
+}
+
+img {
+    border-radius: 50%;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.msdhoni {
+    text-align: left;
+    margin-left: 40px;
+
+}
+
+.yellow {
+    color: #19A7CE;
+}
+
+
+.container th h1 {
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+}
+
+.container td {
+    font-weight: normal;
+    font-size: 1em;
+    -webkit-box-shadow: 0 2px 2px -2px #0E1119;
+    -moz-box-shadow: 0 2px 2px -2px #0E1119;
+    box-shadow: 0 2px 2px -2px #0E1119;
+}
+
+.container {
+    text-align: left;
+    overflow: hidden;
+    width: 80%;
+    margin: 0 auto;
+    display: table;
+
+}
+
+.container td,
+.container th {
+    padding-bottom: 1%;
+    padding-top: 1%;
+    padding-left: 2%;
+}
+
+
+.container tr:nth-child(odd) {
+    background-color: #323C50;
+}
+
+
+.container tr:nth-child(even) {
+    background-color: #2C3446;
+}
+
+.container th {
+    background-color: #1F2739;
+}
+
+.container td:first-child {
+    color: #3CCF4E;
+}
+
+.award {
+    background-color: #088395;
+    padding: 10px 10px;
+    margin-bottom: 30px;
+}
+
+.record {
+    padding: 10px 10px;
+}
+
+.intro {
+    padding: 80px 50px;
+}
+
+h5 {
+    color: #ea864f;
+    font-size: 27px;
+    background: #354088;
+    width: 400px;
+    border-radius: 2px;
+    padding-left: 30px;
+}
+
+.main {
+    background: url('https://static.vecteezy.com/system/resources/previews/000/427/062/original/cricket-stadium-vector.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hed {
+    background-color: #354088;
+    padding: 10px 10px;
+}
