@@ -1,4 +1,4 @@
-# OIBSIP
+# InternPe
 
 Three Tasks of Web development and Design Internship
 1) Simple Calculator
